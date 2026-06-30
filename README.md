@@ -1,4 +1,4 @@
-# ⚡ AI Opportunity Identifier — Enterprise Process Assessment
+# AI Opportunity Identifier — Enterprise Process Assessment
 
 **Evaluates enterprise business processes for AI automation potential, recommends implementation approaches, estimates impact, and generates phased roadmaps.**
 
